@@ -1,0 +1,8 @@
+﻿  ArrayValueCalculator.cpp
+C:\Users\lenovo\source\repos\ArrayCalculator\ArrayCalculator\ArrayValueCalculator.cpp(16,58): warning C4474: 'sprintf_s' : too many arguments passed for format string
+  C:\Users\lenovo\source\repos\ArrayCalculator\ArrayCalculator\ArrayValueCalculator.cpp(16,58):
+  placeholders and their parameters expect 0 variadic arguments, but 2 were provided
+  
+  main.cpp
+  Generating Code...
+  ArrayCalculator.vcxproj -> C:\Users\lenovo\source\repos\ArrayCalculator\x64\Debug\ArrayCalculator.exe
